@@ -8,12 +8,12 @@ This project is focused on predicting customer churn in the telecom industry usi
 The aim of this project is to predict the likelihood of customer churn using logistic regression. The data for this project is obtained from a CSV file that contains information about customer subscriptions, billing history, and other relevant factors. The dataset contains information about whether a customer has churned or not, and the objective is to build a model that can predict whether a customer is likely to churn.
 
 # Dependencies
-Python 3.6 or higher pandas numpy seaborn sklearn
+Python 3.6 or higher<br>pandas <br>numpy <br>seaborn <br>sklearn
 
 # Files
-data/telecom_data.csv: the dataset used in this project
+data - 'telecom_data.csv': the dataset used in this project
 
-notebooks/ChurnPridection_CodeClause1.ipynb: Jupyter notebook containing code for the churn prediction model
+notebooks - 'ChurnPridection_CodeClause1.ipynb': Jupyter notebook containing code for the churn prediction model
 
 # Project Description
 Telecommunication providers that focus on Tenure,total Charges, availability of content and features whilst creating positive customer service experiences have high chances of customer retention. All these factors can be measured with different layers of data about Phone Service,Multiple Lines,Internet Service,Online Security,Online Backup,Device Protection,Tech Support,Streaming TV,Streaming Movies, and more to get a 360-degree view of the customer.
